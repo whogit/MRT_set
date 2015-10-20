@@ -1,0 +1,10 @@
+C:\Documents and Settings\Villages\Local Settings\Application Data\Temporary Projects\ToolLibrary\bin\Release\ToolLibrary.dll
+C:\Documents and Settings\Villages\Local Settings\Application Data\Temporary Projects\ToolLibrary\bin\Release\ToolLibrary.pdb
+C:\Documents and Settings\Villages\Local Settings\Application Data\Temporary Projects\ToolLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Villages\Local Settings\Application Data\Temporary Projects\ToolLibrary\obj\Release\ToolLibrary.dll
+C:\Documents and Settings\Villages\Local Settings\Application Data\Temporary Projects\ToolLibrary\obj\Release\ToolLibrary.pdb
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\ToolLibrary\ToolLibrary\bin\Release\ToolLibrary.dll
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\ToolLibrary\ToolLibrary\bin\Release\ToolLibrary.pdb
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\ToolLibrary\ToolLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\ToolLibrary\ToolLibrary\obj\Release\ToolLibrary.dll
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\ToolLibrary\ToolLibrary\obj\Release\ToolLibrary.pdb
